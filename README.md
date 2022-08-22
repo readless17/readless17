@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Here are some of my social networks and contacts:
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/readless17)](https://github.com/leticiacamposs2)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-silveira-57b9b623/)](https://www.linkedin.com/in/marcelo-silveira-57b9b623/)
+[![Gmail Badge](https://img.shields.io/badge/-ms.silveira@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ms.silveira@gmail.com)](mailto:ms.silveira@gmail.com)
+
 ![Marcelo Silveira' Github Stats](https://github-readme-stats.vercel.app/api?username=readless17&show_icons=true&theme=tokyonight)
 
 About me:
