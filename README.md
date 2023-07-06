@@ -16,9 +16,9 @@ I'm Marcelo Silveira, software developer and a technology enthusiast and I love 
 
 • 💼 Full Developer Analyst at @TCS.
 
-• 📚 I've been working and directing my studies in web development: C#, Javascript, Typescript, Angular and OutSystems.
+• 📚 I've been working and directing my studies in web development: C#, Javascript and OutSystems.
 
-• 🤓 Always learning and practicing on C#, .Net and Design Patterns.
+• 🤓 Always learning and practicing on OutSystems, C#, .Net and Design Patterns.
 
 
 
