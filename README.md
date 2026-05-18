@@ -6,8 +6,6 @@ Here are some of my social networks and contacts:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-silveira17/)](https://www.linkedin.com/in/marcelo-silveira17/)
 [![Gmail Badge](https://img.shields.io/badge/-ms.silveira@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ms.silveira@gmail.com)](mailto:ms.silveira@gmail.com)
 
-![Marcelo Silveira' Github Stats](https://github-readme-stats.vercel.app)
-
 About me:
 
 I'm Marcelo Silveira, software developer and a technology enthusiast and I love using my knowledge to propose solutions and solve problems.
