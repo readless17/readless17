@@ -12,13 +12,13 @@ About me:
 
 I'm Marcelo Silveira, software developer and a technology enthusiast and I love using my knowledge to propose solutions and solve problems.
 
-•	🎓 Graduated in Information Systems by uniban and certified by Microsoft and OutSystems.
+•	🎓 Graduated in Information Systems by Anhanguera and certified by OutSystems and Microsoft.
 
-• 💼 Full Developer Analyst at @TCS.
+• 💼 Senior Developer Analyst at @TCS.
 
-• 📚 I've been working and directing my studies in web development: C#, Javascript and OutSystems.
+• 📚 I've been working and directing my studies in web development: SAP, Java and Others.
 
-• 🤓 Always learning and practicing on OutSystems, C#, .Net and Design Patterns.
+• 🤓 Always learning and practicing.
 
 
 
