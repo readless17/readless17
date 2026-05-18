@@ -16,7 +16,7 @@ I'm Marcelo Silveira, software developer and a technology enthusiast and I love 
 
 • 💼 Senior Developer Analyst at @TCS.
 
-• 📚 I've been working and directing my studies in web development: SAP, Java and Others.
+• 📚 I've been working and directing my studies in web development: SAP, ABAP and Others.
 
 • 🤓 Always learning and practicing.
 
